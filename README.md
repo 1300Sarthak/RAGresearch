@@ -4,4 +4,4 @@ Developing Autonomous Retrieval-Augmented Generation (RAG) Agents under the guid
 # Contributors 
   1. Sarthak Sethi
   2. Tanzil Ahmed
-  3. Troy 
+  3. Troy Asia
