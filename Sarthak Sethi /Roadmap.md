@@ -173,5 +173,3 @@ ArXiv https://arxiv.org/list/cs.CL/recent
 Hugging Face Papers
 
 Conference Proceedings (ACL, NeurIPS, ICLR)
-
-Would you like help finding a dataset or implementing a RAG experiment?
